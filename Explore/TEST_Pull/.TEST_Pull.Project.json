@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "52vD99fwSnFhm02bZOG1mN",
+    "name" : "TEST_Pull",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-05-15T19:26:19.831Z",
+  "objectRefs" : [ ]
+}
