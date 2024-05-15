@@ -1,0 +1,61 @@
+<aetgt:getResponse xmlns:aetgt="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd"
+                   xmlns:types1="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd">
+   <types1:Item>
+      <types1:EntryId>FwIciQlBWlD2pHA-gt-3238423-2023-05-30T15:35:00.651Z::conn.xml</types1:EntryId>
+      <types1:Name>Salesforce</types1:Name>
+      <types1:MimeType>application/xml+connection</types1:MimeType>
+      <types1:Description>SFDC connection</types1:Description>
+      <types1:AppliesTo/>
+      <types1:Tags/>
+      <types1:VersionLabel>1.0</types1:VersionLabel>
+      <types1:State>CURRENT</types1:State>
+      <types1:ProcessGroup/>
+      <types1:CreatedBy>anakkeeran@informatica.com</types1:CreatedBy>
+      <types1:CreationDate>2023-05-30T15:35:01Z</types1:CreationDate>
+      <types1:ModifiedBy>anakkeeran@informatica.com</types1:ModifiedBy>
+      <types1:ModificationDate>2023-05-30T15:38:03Z</types1:ModificationDate>
+      <types1:PublicationStatus>published</types1:PublicationStatus>
+      <types1:PublishedBy>anakkeeran@informatica.com</types1:PublishedBy>
+      <types1:PublicationDate>2023-05-30T15:44:02Z</types1:PublicationDate>
+      <types1:PublishedContributionId>project:/rt.connection/Salesforce/Salesforce.conn.xml</types1:PublishedContributionId>
+      <types1:Entry>
+         <connection xmlns="http://schemas.informatica.com/socrates/data-services/2014/04/avosConnections.xsd"
+                     displayName="Salesforce"
+                     label="Salesforce"
+                     name="Salesforce">
+            <description>SFDC connection</description>
+            <tags/>
+            <agent/>
+            <attributes>
+               <attribute name="objectFilter" value=""/>
+            </attributes>
+            <soaConnector xmlns="http://schemas.informatica.com/appmodules/screenflow/2014/04/avosConnectors.xsd"
+                          connectorPath="project:/com.activevos.cumulus.cloud.extend.playbook.configuration/config/sfConnector.xml"
+                          name="Salesforce"
+                          supportsConnectionTest="true"
+                          supportsOData="true"
+                          supportsPublishSkipMetadataRefresh="true"
+                          uuid="05fc48f1-e6e1-441b-b700-bac396ca2ed1">
+               <description>Salesforce.com SOA based data connector.</description>
+            </soaConnector>
+            <authentication type="$infa_basicform">
+               <attributes>
+                  <attribute encrypted="false"
+                             name="username"
+                             value="anakkeeran@informatica.sandbox"/>
+                  <attribute encrypted="true" name="password" value=""/>
+                  <attribute encrypted="true" name="token" value=""/>
+                  <attribute encrypted="false"
+                             name="serviceUrl"
+                             value="https://login.salesforce.com/services/Soap/c/56.0"/>
+                  <attribute encrypted="true" name="clientId" value=""/>
+                  <attribute encrypted="true" name="clientSecret" value=""/>
+               </attributes>
+            </authentication>
+         </connection>
+      </types1:Entry>
+      <types1:GUID>7ZWOWu2fWekgCgkoKuTtqe</types1:GUID>
+      <types1:DisplayName>Salesforce</types1:DisplayName>
+   </types1:Item>
+   <types1:CurrentServerDateTime>2024-05-13T14:56:59.504Z</types1:CurrentServerDateTime>
+</aetgt:getResponse>
