@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "aUfXKvsgrOFgR6YE9w1O2F",
+    "name" : "New_project",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-05-18T19:26:23.946Z",
+  "objectRefs" : [ ]
+}
