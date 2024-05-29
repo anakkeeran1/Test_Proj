@@ -16,14 +16,14 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
-        "contentType" : null,
+        "description" : "Test Description",
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-05-29T14:30:34.551Z",
+  "updateTime" : "2024-05-29T16:52:41.672Z",
   "objectRefs" : [ {
     "id" : "4uxi3Ch5ozyj6Dbf39WTYW",
     "name" : "XX_Arun_SFDCConnector",
