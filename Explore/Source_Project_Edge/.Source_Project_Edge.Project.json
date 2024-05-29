@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "7oLQyqPuMz8iwIQylQO58P",
+    "name" : "Source_Project_Edge",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-05-29T14:20:16.922Z",
+  "objectRefs" : [ ]
+}
