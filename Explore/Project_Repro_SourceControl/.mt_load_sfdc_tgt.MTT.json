@@ -16,14 +16,14 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : null,
-        "contentType" : null,
+        "description" : "Test",
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-05-29T14:26:16.748Z",
+  "updateTime" : "2024-05-29T14:29:30.151Z",
   "objectRefs" : [ {
     "id" : "3w22rqJxXuDb6AKBwWxi0s",
     "name" : "A-USW74NZFL3",
@@ -96,10 +96,7 @@
       "repoInfo" : {
         "repoHandle" : "01CACU1700000000000Q"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "",
         "contentType" : null,
