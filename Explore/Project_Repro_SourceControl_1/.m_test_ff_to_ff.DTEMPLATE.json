@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "70K6XdCCVvcj10RO6fSvcj",
-    "name" : "m_test_mapping",
+    "id" : "1EucH8WN3GkbCDCiaCAYOb",
+    "name" : "m_test_ff_to_ff",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,21 +9,21 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01CACU1700000000000W"
+        "repoHandle" : "01CACU1700000000000X"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Test Description - Test 2",
+        "description" : "",
         "contentType" : null,
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-06-17T18:18:40.899Z",
+  "updateTime" : "2024-06-17T18:18:40.901Z",
   "objectRefs" : [ {
     "id" : "1Uov9qjfmylh5sTW1u9qQw",
     "name" : "XX_Arun_LocalCSVFiles",
