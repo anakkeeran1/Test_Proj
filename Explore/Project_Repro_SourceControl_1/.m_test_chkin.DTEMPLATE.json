@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "0bZTMERE1OMdg8wUIIw44E",
+    "id" : "9MGIdALX5kIbxgLG3XWhSv",
     "name" : "m_test_chkin",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01C7I7170000000000YC"
+        "repoHandle" : "01CACU17000000000011"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,16 +17,16 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-06-17T18:13:27.540Z",
+  "updateTime" : "2024-06-17T23:26:46.619Z",
   "objectRefs" : [ {
-    "id" : "4Y9dXDjR5hafyVuy92sFAo",
-    "name" : "XX_Arun_LocalCSVFiles",
+    "id" : "05CcFfdQQKqfBwIPSllHyx",
+    "name" : "XX_Arun_Oracle",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -34,7 +34,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01C7I70B000000000003"
+        "repoHandle" : "01CACU0B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -45,8 +45,8 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "2YA8RYPoRdpeYMJARdv2oI",
-    "name" : "XX_Arun_Oracle",
+    "id" : "1Uov9qjfmylh5sTW1u9qQw",
+    "name" : "XX_Arun_LocalCSVFiles",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -54,7 +54,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01C7I70B000000000004"
+        "repoHandle" : "01CACU0B000000000005"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
