@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "cPDuKI3YUisdmzauGqiPG6",
+    "id" : "50I27FETY3JlAHXPFPB0k3",
     "name" : "m_load_sfdc_tgt",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,21 +9,21 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01CACU1700000000000Q"
+        "repoHandle" : "01CACU17000000000012"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Test Description - 2",
-        "contentType" : "JSON",
+        "description" : "",
+        "contentType" : null,
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-06-18T00:14:49.514Z",
+  "updateTime" : "2024-06-18T00:17:00.667Z",
   "objectRefs" : [ {
     "id" : "4uxi3Ch5ozyj6Dbf39WTYW",
     "name" : "XX_Arun_SFDCConnector",
