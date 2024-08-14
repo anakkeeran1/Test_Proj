@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "50I27FETY3JlAHXPFPB0k3",
+    "id" : "ixKr1TNaeASkZeRwtSRdOl",
     "name" : "m_load_sfdc_tgt",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01CACU17000000000012"
+        "repoHandle" : "01C7I7170000000000YI"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,16 +17,16 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-06-18T00:26:29.159Z",
+  "updateTime" : "2024-08-14T15:05:07.280Z",
   "objectRefs" : [ {
-    "id" : "4uxi3Ch5ozyj6Dbf39WTYW",
-    "name" : "XX_Arun_SFDCConnector",
+    "id" : "4Y9dXDjR5hafyVuy92sFAo",
+    "name" : "XX_Arun_LocalCSVFiles",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -34,7 +34,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01CACU0B00000000000A"
+        "repoHandle" : "01C7I70B000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -45,8 +45,8 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "1Uov9qjfmylh5sTW1u9qQw",
-    "name" : "XX_Arun_LocalCSVFiles",
+    "id" : "5Mjl1MwPqewflXFg21eo8s",
+    "name" : "XX_Arun_SFDCConnector",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -54,7 +54,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01CACU0B000000000005"
+        "repoHandle" : "01C7I70B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
